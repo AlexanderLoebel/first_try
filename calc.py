@@ -1,4 +1,4 @@
-print('Goodbye World!')
+print('Bye World!')
 
 print('why')
 print('why not')
